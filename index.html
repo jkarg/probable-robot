@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>My test page</title>
+    <link href="styles/style.css" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Lexend+Mega&display=swap" rel="stylesheet">
+  </head>
+  <body>
+    <h1>S.W.O.R.D.</h1>
+    <img src="images/paint-it-black.png" alt="My non-functioning Rolling Stones allusion....">
+    <p>Sentient Weapon Observation Response Division</p>
+    <p>Members include:</p>
+    <ul>
+        <li><a href="https://i.bucklehq.com/homepage">Monica Rambeau</a></li>
+        <li>Tyler Hayward</li>
+    </ul>
+    <p>working together...?</p>
+    <button>Change user</button>
+    <script src="scripts/main.js"></script>
+  </body>
+</html> 
